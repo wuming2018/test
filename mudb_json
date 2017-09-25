@@ -1,0 +1,50 @@
+[
+    {
+        "d": 0,
+        "enable": 1,
+        "forbidden_port": "",
+        "port": 1081,
+        "method": "aes-256-cfb",
+        "passwd": "1234567",
+        "protocol": "auth_sha1_v4_compatible",
+        "protocol_param": "",
+        "obfs": "http_simple_compatible",
+        "speed_limit_per_con": 0,
+        "speed_limit_per_user": 0,
+        "transfer_enable": 900727656415232,
+        "u": 0,
+        "user": "1081"
+    },
+    {
+        "d": 0,
+        "enable": 1,
+        "forbidden_port": "",
+        "port": 1082,
+        "method": "aes-256-cfb",
+        "passwd": "1234567",
+        "protocol": "auth_sha1_v4_compatible",
+        "protocol_param": "",
+        "obfs": "tls1.2_ticket_auth_compatible",
+        "speed_limit_per_con": 0,
+        "speed_limit_per_user": 0,
+        "transfer_enable": 900727656415232,
+        "u": 0,
+        "user": "1082"
+    },
+    {
+        "d": 0,
+        "enable": 1,
+        "forbidden_port": "",
+        "port": 1083,
+        "method": "aes-256-cfb",
+        "passwd": "1234567",
+        "protocol": "auth_sha1_v4_compatible",
+        "protocol_param": "",
+        "obfs": "tls1.2_ticket_auth_compatible",
+        "speed_limit_per_con": 0,
+        "speed_limit_per_user": 0,
+        "transfer_enable": 900727656415232,
+        "u": 0,
+        "user": "1083"
+    }
+]        
