@@ -17,7 +17,7 @@ apt-get install git
 ### 获取源代码 ###
 ```
 git clone -b master https://github.com/wuming2018/test.git
-mv ssr/ /usr/local/shadowsocksr
+mv test/ /usr/local/shadowsocksr
 ```
 
 执行完毕后安装目录为/usr/local/shadowsocksr，其中根目录的是多用户版（即数据库版，个人用户请忽略这个），子目录中的是单用户版(即/usr/local/shadowsocksr/shadowsocks)。
